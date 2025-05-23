@@ -23,8 +23,8 @@ from aequitas.fairness import Fairness
 #MODEL_WITH_PROXY_PATH   = "model_with_proxy.pkl"
 #TRAIN_NO_PROXY_CSV      = "train_no_proxy.csv"
 #TEST_NO_PROXY_CSV       = "test_no_proxy.csv"
-TRAIN_BASE_CSV    = "train_with_proxy.csv"
-TEST_BASE_CSV     = "test_with_proxy.csv"
+TRAIN_BASE_CSV    = "app/train_with_proxy.csv"
+TEST_BASE_CSV     = "app/test_with_proxy.csv"
 
 
 
