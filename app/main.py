@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from fastapi import HTTPException
 from fastapi.encoders import jsonable_encoder
 
-from models import (
+from app.models import (
     get_model_features,
     get_representation_counts,
     predict_risk,
