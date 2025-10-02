@@ -1,6 +1,6 @@
 # Fairness-aware student-risk demo
 
-A minimal Python project that trains a baseline classifier on student data, then audits subgroup fairness with **Aequitas** and tests simple **re-sampling** and **post-hoc thresholding** strategies.
+A minimal Python project that trains a baseline classifier on student's success or failure data, then audits subgroup fairness with **Aequitas** and tests simple **re-sampling** and **post-hoc thresholding** strategies.
 
 ## Requirements
 
